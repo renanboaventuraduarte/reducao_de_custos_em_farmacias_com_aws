@@ -1,11 +1,11 @@
-# 🚀 Projeto de Redução de Custos e Modernização de Infraestrutura (AWS)
+# 🚀 Projeto de Redução de Custos e Modernização de Infraestrutura de Farmácia(AWS)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="120" alt="AWS">
 </p>
 
 ## 📋 Informações Gerais
-* **Empresa:** Abstergo Industries
+* **Empresa:** Abstergo Industries (Indústria Farmacêutica)
 * **Responsável:** Renan Boaventura Duarte
 * **Data:** 20/07/2026
 
